@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Electronics",
+    "image": "path/to/image.png"
+  },
+  {
+    "id": "2",
+    "name": "Books",
+    "image": "path/to/image.png"
+  }
+]

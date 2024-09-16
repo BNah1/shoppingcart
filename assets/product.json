@@ -1,0 +1,141 @@
+[
+  {
+    "id": "01",
+    "name": "Product #01",
+    "image": "assets/product_0.jpg",
+    "price": "110000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "02",
+    "name": "Product #02",
+    "image": "assets/product_1.jpg",
+    "price": "130000",
+    "isHot": "true",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "03",
+    "name": "Product #03",
+    "image": "assets/product_2.jpg",
+    "price": "150000",
+    "isHot": "true",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "04",
+    "name": "Product #04",
+    "image": "assets/product_3.jpg",
+    "price": "200000",
+    "isHot": "true",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "05",
+    "name": "Product #05",
+    "image": "assets/product_4.jpg",
+    "price": "100000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "06",
+    "name": "Product #06",
+    "image": "assets/product_5.jpg",
+    "price": "210000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "07",
+    "name": "Product #07",
+    "image": "assets/product_6.jpg",
+    "price": "120000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "08",
+    "name": "Product #08",
+    "image": "assets/product_7.jpg",
+    "price": "300000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "09",
+    "name": "Product #09",
+    "image": "assets/product_8.jpg",
+    "price": "400000",
+    "isHot": "true",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "10",
+    "name": "Product #10",
+    "image": "assets/product_9.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  }
+,
+  {
+    "id": "11",
+    "name": "Product #11",
+    "image": "assets/product_10.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  }
+,
+  {
+    "id": "12",
+    "name": "Product #12",
+    "image": "assets/product_11.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  }
+,
+  {
+    "id": "13",
+    "name": "Product #13",
+    "image": "assets/product_12.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  }
+,
+  {
+    "id": "14",
+    "name": "Product #14",
+    "image": "assets/product_13.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  },
+  {
+    "id": "15",
+    "name": "Product #15",
+    "image": "assets/product_14.jpg",
+    "price": "90000",
+    "isHot": "false",
+    "detail": "Sneaker XYZ là giày thể thao hoàn hảo cho mọi hoạt động. Thiết kế hiện đại, thoải mái và phong cách.",
+    "quantityStore": "20"
+  }
+]
